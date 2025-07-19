@@ -1,0 +1,7 @@
+{
+  "/customer/book/page": "app/customer/book/page.js",
+  "/customer/dashboard/page": "app/customer/dashboard/page.js",
+  "/customer/track/[rideId]/page": "app/customer/track/[rideId]/page.js",
+  "/driver/dashboard/page": "app/driver/dashboard/page.js",
+  "/page": "app/page.js"
+}
